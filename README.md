@@ -10,4 +10,5 @@ Python
 API Establishment, Web Scraping
 
 ### File(s) included: 
-Main Code for Establishing API and Recipe Web Scraping; Readme File - Instruction on How to Use the Code
+Main Code for Establishing API and Recipe Web Scraping
+Readme File - Instruction on How to Use the Code
